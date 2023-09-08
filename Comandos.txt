@@ -1,0 +1,4 @@
+COMANDOS PARA LEVANTAR EL SERVIDOR 
+php artisan make:migration create__articulos_table
+Php artisan migrate
+Php artisan serve
